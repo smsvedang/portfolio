@@ -1,0 +1,2 @@
+:root { font-family: 'Trebuchet MS', 'Segoe UI', sans-serif; color: #e8f0f2; background: #071013; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; --bg: #071013; --line: rgba(150, 205, 210, .18); --muted: #84979a; --cyan: #62e9e0; --blue: #6b9dff; --amber: #eab86e; --mono: 'Courier New', monospace; }
+* { box-sizing: border-box; } html { scroll-behavior: smooth; } body { margin: 0; min-width: 320px; background: var(--bg); } button, a { font: inherit; } button { cursor: pointer; } #root { min-height: 100vh; }
